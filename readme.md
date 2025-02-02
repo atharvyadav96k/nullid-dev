@@ -12,7 +12,7 @@ Welcome! Your task is to create a new branch, add your code, and push it to GitH
 atharvyadav96k@gmail.com 
 ```
 ### 2️⃣ Create brach 
-    . branch name should be your github username
+branch name should be your github username
 
 ### 3️⃣ Clone repo
 
