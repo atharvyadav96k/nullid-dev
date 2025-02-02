@@ -26,4 +26,6 @@ git clone https://github.com/atharvyadav96k/nullid-dev.git
 git push origin <username>
 ```
 
+### Design
+
 <img src="https://i.ibb.co/xtdKw5HW/Mac-Book-Pro-14-2.png" >
