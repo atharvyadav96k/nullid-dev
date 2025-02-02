@@ -7,8 +7,21 @@ Welcome! Your task is to create a new branch, add your code, and push it to GitH
 
 ## 🛠 Steps to Complete the Task
 
-### 1️⃣ Clone the Repository  
-First, clone this repository to your local machine using the command:  
+### 1️⃣ Mail for collaboration  
+```bash
+atharvyadav96k@gmail.com 
+```
+### 2️⃣ Create brach 
+    . branch name should be your github username
+
+### 3️⃣ Clone repo
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/atharvyadav96k/nullid-dev.git
+```
+
+### 4️⃣ Start pushing change on your repo
+
+```bash
+git push origin <username>
+```
