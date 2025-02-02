@@ -20,7 +20,7 @@ branch name should be your github username
 git clone https://github.com/atharvyadav96k/nullid-dev.git
 ```
 
-### 4️⃣ Start pushing change on your repo
+### 4️⃣ Start pushing change on your branch
 
 ```bash
 git push origin <username>
